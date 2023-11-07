@@ -1,0 +1,342 @@
+[
+  {
+    "id": 1,
+    "nome": "SMASH CLÁSSICO",
+    "preco": "R$ 32,90",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/1b0e1ade-8fed-465b-a552-bd4bded13dc3/201911220047_y6Nd_s.jpg",
+    "restaurante_id": 2
+  },
+  {
+    "id": 2,
+    "nome": "PAULISTINHA DA CASA",
+    "preco": "R$ 36,90",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/1b0e1ade-8fed-465b-a552-bd4bded13dc3/201911220038_mEmZ_d.jpg",
+    "restaurante_id": 2
+  },
+  {
+    "id": 3,
+    "nome": "PAULISTINHA TRADICIONAL DE FRANGO",
+    "preco": "R$ 29,90",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/1b0e1ade-8fed-465b-a552-bd4bded13dc3/201911220039_XIQ1_t.jpg",
+    "restaurante_id": 2
+  },
+  {
+    "id": 4,
+    "nome": "SMASH CLÁSSICO",
+    "preco": "R$ 32,90",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/1b0e1ade-8fed-465b-a552-bd4bded13dc3/201911220047_y6Nd_s.jpg",
+    "restaurante_id": 2
+  },
+  {
+    "id": 5,
+    "nome": "PAULISTINHA DA CASA",
+    "preco": "R$ 36,90",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/1b0e1ade-8fed-465b-a552-bd4bded13dc3/201911220038_mEmZ_d.jpg",
+    "restaurante_id": 2
+  },
+  {
+    "id": 6,
+    "nome": "PAULISTINHA TRADICIONAL DE FRANGO",
+    "preco": "R$ 29,90",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/1b0e1ade-8fed-465b-a552-bd4bded13dc3/201911220039_XIQ1_t.jpg",
+    "restaurante_id": 2
+  },
+  {
+    "id": 7,
+    "nome": "SANDUICHE CHEDDAR",
+    "preco": "R$ 21,90",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/00d448d2-f09f-405e-b819-6971a035b3fb/202301030300_221H_i.jpg",
+    "restaurante_id": 1
+  },
+  {
+    "id": 8,
+    "nome": " PÃO SIRIO FRANGO",
+    "preco": "R$ 48,90",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/00d448d2-f09f-405e-b819-6971a035b3fb/202102010433_mGsx_.jpeg",
+    "restaurante_id": 1
+  },
+  {
+    "id": 9,
+    "nome": "MEGA CHAPA MISTA G G 1.5KGS",
+    "preco": "R$ 114,90",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/00d448d2-f09f-405e-b819-6971a035b3fb/202102210507_ESJe_.jpeg",
+    "restaurante_id": 1
+  },
+  {
+    "id": 10,
+    "nome": "SANDUICHE CHEDDAR",
+    "preco": "R$ 21,90",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/00d448d2-f09f-405e-b819-6971a035b3fb/202301030300_221H_i.jpg",
+    "restaurante_id": 1
+  },
+  {
+    "id": 11,
+    "nome": " PÃO SIRIO FRANGO",
+    "preco": "R$ 48,90",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/00d448d2-f09f-405e-b819-6971a035b3fb/202102010433_mGsx_.jpeg",
+    "restaurante_id": 1
+  },
+  {
+    "id": 12,
+    "nome": "MEGA CHAPA MISTA G G 1.5KGS",
+    "preco": "R$ 114,90",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/00d448d2-f09f-405e-b819-6971a035b3fb/202102210507_ESJe_.jpeg",
+    "restaurante_id": 1
+  },
+  {
+    "id": 13,
+    "nome": "SMASH GB",
+    "preco": "R$ 17,99",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/36d3f604-c7df-4036-bb22-6c959da4dec0/202201061842_TF07_i.jpg",
+    "restaurante_id": 3
+  },
+  {
+    "id": 14,
+    "nome": " SMASH BACON",
+    "preco": "R$ 17,99",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/36d3f604-c7df-4036-bb22-6c959da4dec0/202108181643_5Y6K_i.jpg",
+    "restaurante_id": 3
+  },
+  {
+    "id": 15,
+    "nome": "DUPLO COSTELA BACON",
+    "preco": "R$ 23,60",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/36d3f604-c7df-4036-bb22-6c959da4dec0/202108061519_AYV4_i.jpg",
+    "restaurante_id": 3
+  },
+  {
+    "id": 16,
+    "nome": "SMASH GB",
+    "preco": "R$ 17,99",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/36d3f604-c7df-4036-bb22-6c959da4dec0/202201061842_TF07_i.jpg",
+    "restaurante_id": 3
+  },
+  {
+    "id": 17,
+    "nome": " SMASH BACON",
+    "preco": "R$ 17,99",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/36d3f604-c7df-4036-bb22-6c959da4dec0/202108181643_5Y6K_i.jpg",
+    "restaurante_id": 3
+  },
+  {
+    "id": 18,
+    "nome": "DUPLO COSTELA BACON",
+    "preco": "R$ 23,60",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/36d3f604-c7df-4036-bb22-6c959da4dec0/202108061519_AYV4_i.jpg",
+    "restaurante_id": 3
+  },
+  {
+    "id": 19,
+    "nome": "X - SALADA ESPECIAL",
+    "preco": "R$ 28,50",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/f6043378-8e01-49b5-9b67-70b7c3e59056/201711281219_35868867.jpg",
+    "restaurante_id": 4
+  },
+  {
+    "id": 20,
+    "nome": " X- SALADA SIMPLES",
+    "preco": "R$ 26,50",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/f6043378-8e01-49b5-9b67-70b7c3e59056/202008271734_6deB_i.jpg",
+    "restaurante_id": 4
+  },
+  {
+    "id": 21,
+    "nome": "X BACON SIMPLES",
+    "preco": "R$ 31,00",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/f6043378-8e01-49b5-9b67-70b7c3e59056/201711281219_35868867.jpg",
+    "restaurante_id": 4
+  },
+  {
+    "id": 22,
+    "nome": "X - SALADA ESPECIAL",
+    "preco": "R$ 28,50",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/f6043378-8e01-49b5-9b67-70b7c3e59056/201711281219_35868867.jpg",
+    "restaurante_id": 4
+  },
+  {
+    "id": 23,
+    "nome": " X- SALADA SIMPLES",
+    "preco": "R$ 26,50",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/f6043378-8e01-49b5-9b67-70b7c3e59056/202008271734_6deB_i.jpg",
+    "restaurante_id": 4
+  },
+  {
+    "id": 24,
+    "nome": "X BACON SIMPLES",
+    "preco": "R$ 31,00",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/f6043378-8e01-49b5-9b67-70b7c3e59056/201711281219_35868867.jpg",
+<<<<<<< HEAD
+    "restaurante_id": 4
+=======
+    "restaurantes_id": "4"
+  },
+  {
+    "id": 25,
+    "nome": "CHEDDAR SIMPLES",
+    "preco":"R$ 17,99",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/7edcf8fc-50f7-47c1-8c65-73b6eee56a81/202207150950_SHN3_i.jpg",
+    "restaurantes_id": "5"
+  },
+  {
+    "id": 26,
+    "nome": "CHEDDAR PROVOLONE",
+    "preco":"R$ 19,99",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/7edcf8fc-50f7-47c1-8c65-73b6eee56a81/202301042004_R2UV_i.jpg",
+    "restaurantes_id": "5"
+  },
+  {
+    "id": 27,
+    "nome": "MEGGA GOURMET",
+    "preco": "R$ 21,90",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/7edcf8fc-50f7-47c1-8c65-73b6eee56a81/202301041936_LMK1_i.jpg",
+    "restaurantes_id": "5"
+  },
+  {
+    "id": 28,
+    "nome": "CHEDDAR SIMPLES",
+    "preco":"R$ 17,99",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/7edcf8fc-50f7-47c1-8c65-73b6eee56a81/202207150950_SHN3_i.jpg",
+    "restaurantes_id": "5"
+  },
+  {
+    "id": 29,
+    "nome": "CHEDDAR PROVOLONE",
+    "preco":"R$ 19,99",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/7edcf8fc-50f7-47c1-8c65-73b6eee56a81/202301042004_R2UV_i.jpg",
+    "restaurantes_id": "5"
+  },
+  {
+    "id": 30,
+    "nome": "MEGGA GOURMET",
+    "preco": "R$ 21,90",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/7edcf8fc-50f7-47c1-8c65-73b6eee56a81/202301041936_LMK1_i.jpg",
+    "restaurantes_id": "5"
+  },
+  {
+    "id": 31,
+    "nome": "COSTELA CHEESE",
+    "preco": "R$ 25,90",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/705df8c7-0085-462d-b3ca-774ae9b70b95/202110152008_5OBR_i.jpg",
+    "restaurantes_id": "6"
+  },
+  {
+   "id": 32,
+   "nome": "CALABRESA COSTELETA",
+   "preco": "R$ 19,90",
+   "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/705df8c7-0085-462d-b3ca-774ae9b70b95/202110151956_5FYJ_i.jpg",
+   "restaurantes_id": "6"
+  },
+  {
+    "id": 33,
+    "nome": "PORTOBELLO PIZZA",
+    "preco": "R$ 14,90",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/705df8c7-0085-462d-b3ca-774ae9b70b95/202104281134_8340_.jpeg",
+    "restaurantes_id": "6"
+  },
+  {
+    "id": 34,
+    "nome": "COSTELA CHEESE",
+    "preco": "R$ 25,90",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/705df8c7-0085-462d-b3ca-774ae9b70b95/202110152008_5OBR_i.jpg",
+    "restaurantes_id": "6"
+  },
+  {
+   "id": 35,
+   "nome": "CALABRESA COSTELETA",
+   "preco": "R$ 19,90",
+   "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/705df8c7-0085-462d-b3ca-774ae9b70b95/202110151956_5FYJ_i.jpg",
+   "restaurantes_id": "6"
+  },
+  {
+    "id": 36,
+    "nome": "PORTOBELLO PIZZA",
+    "preco": "R$ 14,90",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/705df8c7-0085-462d-b3ca-774ae9b70b95/202104281134_8340_.jpeg",
+    "restaurantes_id": "6"
+  },
+  {
+    "id": 37,
+    "nome": "esfihas",
+    "preco":"R$ 10,90",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/f0505b00-c686-479f-8630-43fcf173aadc/202304122045_3HM5_i.jpg",
+    "restaurantes_id": "7"
+  },
+  {
+    "id": 38,
+    "nome": "PIZZA CALABRESA",
+    "preco": "R$ 42,90",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/f0505b00-c686-479f-8630-43fcf173aadc/202305251956_K25P_i.jpg",
+    "restaurantes_id": "7"
+  },
+  {
+    "id": 39,
+    "nome": "PIZZA MARGARIDA",
+    "preco": "R$ 45,90",
+    "restaurantes_id": "7",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/f0505b00-c686-479f-8630-43fcf173aadc/202305251959_OSLI_i.jpg"
+  },
+  {
+    "id": 40,
+    "nome": "esfihas",
+    "preco":"R$ 10,90",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/f0505b00-c686-479f-8630-43fcf173aadc/202304122045_3HM5_i.jpg",
+    "restaurantes_id": "7"
+  },
+  {
+    "id": 41,
+    "nome": "PIZZA CALABRESA",
+    "preco": "R$ 42,90",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/f0505b00-c686-479f-8630-43fcf173aadc/202305251956_K25P_i.jpg",
+    "restaurantes_id": "7"
+  },
+  {
+    "id": 42,
+    "nome": "PIZZA MARGARIDA",
+    "preco": "R$ 45,90",
+    "restaurantes_id": "7",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/f0505b00-c686-479f-8630-43fcf173aadc/202305251959_OSLI_i.jpg"
+  },
+  {
+    "id": 43,
+    "nome": "Classico Burgher",
+    "preco": "R$ 24,90",
+    "restaurantes_id": "8",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/15fccc0b-280a-4e15-969e-0d3a88e91233/202209281849_10M8_i.jpg"
+  },
+  {
+    "id": 44,
+    "nome": "Classico Duplo",
+    "preco": "R$ 28,50",
+    "restaurantes_id": "8",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/15fccc0b-280a-4e15-969e-0d3a88e91233/202210031853_BL6K_i.jpg"
+  },
+  {
+    "id": 45,
+    "nome": "Classico triplo",
+    "preco": "R$ 32,90",
+    "restaurantes_id": "8",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/15fccc0b-280a-4e15-969e-0d3a88e91233/202210031853_BL6K_i.jpg"
+  },
+  {
+    "id": 46,
+    "nome": "Classico Burgher",
+    "preco": "R$ 24,90",
+    "restaurantes_id": "8",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/15fccc0b-280a-4e15-969e-0d3a88e91233/202209281849_10M8_i.jpg"
+  },
+  {
+    "id": 47,
+    "nome": "Classico Duplo",
+    "preco": "R$ 28,50",
+    "restaurantes_id": "8",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/15fccc0b-280a-4e15-969e-0d3a88e91233/202210031853_BL6K_i.jpg"
+  },
+  {
+    "id": 48,
+    "nome": "Classico triplo",
+    "preco": "R$ 32,90",
+    "restaurantes_id": "8",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/15fccc0b-280a-4e15-969e-0d3a88e91233/202210031853_BL6K_i.jpg"
+>>>>>>> b722f55e575fcb7c58769cefe10c64b4d3852364
+  }
+]
