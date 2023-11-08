@@ -165,10 +165,7 @@
     "nome": "X BACON SIMPLES",
     "preco": "R$ 31,00",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/f6043378-8e01-49b5-9b67-70b7c3e59056/201711281219_35868867.jpg",
-<<<<<<< HEAD
     "restaurante_id": 4
-=======
-    "restaurantes_id": "4"
   },
   {
     "id": 25,
@@ -328,15 +325,14 @@
     "id": 47,
     "nome": "Classico Duplo",
     "preco": "R$ 28,50",
-    "restaurantes_id": "8",
+    "restaurantes_id": 8,
     "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/15fccc0b-280a-4e15-969e-0d3a88e91233/202210031853_BL6K_i.jpg"
   },
   {
     "id": 48,
     "nome": "Classico triplo",
     "preco": "R$ 32,90",
-    "restaurantes_id": "8",
+    "restaurantes_id": 8,
     "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/15fccc0b-280a-4e15-969e-0d3a88e91233/202210031853_BL6K_i.jpg"
->>>>>>> b722f55e575fcb7c58769cefe10c64b4d3852364
   }
 ]
