@@ -172,104 +172,104 @@
     "nome": "CHEDDAR SIMPLES",
     "preco":"R$ 17,99",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/7edcf8fc-50f7-47c1-8c65-73b6eee56a81/202207150950_SHN3_i.jpg",
-    "restaurantes_id": "5"
+    "restaurantes_id": 5
   },
   {
     "id": 26,
     "nome": "CHEDDAR PROVOLONE",
     "preco":"R$ 19,99",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/7edcf8fc-50f7-47c1-8c65-73b6eee56a81/202301042004_R2UV_i.jpg",
-    "restaurantes_id": "5"
+    "restaurantes_id": 5
   },
   {
     "id": 27,
     "nome": "MEGGA GOURMET",
     "preco": "R$ 21,90",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/7edcf8fc-50f7-47c1-8c65-73b6eee56a81/202301041936_LMK1_i.jpg",
-    "restaurantes_id": "5"
+    "restaurantes_id": 5
   },
   {
     "id": 28,
     "nome": "CHEDDAR SIMPLES",
     "preco":"R$ 17,99",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/7edcf8fc-50f7-47c1-8c65-73b6eee56a81/202207150950_SHN3_i.jpg",
-    "restaurantes_id": "5"
+    "restaurantes_id": 5
   },
   {
     "id": 29,
     "nome": "CHEDDAR PROVOLONE",
     "preco":"R$ 19,99",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/7edcf8fc-50f7-47c1-8c65-73b6eee56a81/202301042004_R2UV_i.jpg",
-    "restaurantes_id": "5"
+    "restaurantes_id": 5
   },
   {
     "id": 30,
     "nome": "MEGGA GOURMET",
     "preco": "R$ 21,90",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/7edcf8fc-50f7-47c1-8c65-73b6eee56a81/202301041936_LMK1_i.jpg",
-    "restaurantes_id": "5"
+    "restaurantes_id": 5
   },
   {
     "id": 31,
     "nome": "COSTELA CHEESE",
     "preco": "R$ 25,90",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/705df8c7-0085-462d-b3ca-774ae9b70b95/202110152008_5OBR_i.jpg",
-    "restaurantes_id": "6"
+    "restaurantes_id": 6
   },
   {
    "id": 32,
    "nome": "CALABRESA COSTELETA",
    "preco": "R$ 19,90",
    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/705df8c7-0085-462d-b3ca-774ae9b70b95/202110151956_5FYJ_i.jpg",
-   "restaurantes_id": "6"
+   "restaurantes_id": 6
   },
   {
     "id": 33,
     "nome": "PORTOBELLO PIZZA",
     "preco": "R$ 14,90",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/705df8c7-0085-462d-b3ca-774ae9b70b95/202104281134_8340_.jpeg",
-    "restaurantes_id": "6"
+    "restaurantes_id": 6
   },
   {
     "id": 34,
     "nome": "COSTELA CHEESE",
     "preco": "R$ 25,90",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/705df8c7-0085-462d-b3ca-774ae9b70b95/202110152008_5OBR_i.jpg",
-    "restaurantes_id": "6"
+    "restaurantes_id": 6
   },
   {
    "id": 35,
    "nome": "CALABRESA COSTELETA",
    "preco": "R$ 19,90",
    "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/705df8c7-0085-462d-b3ca-774ae9b70b95/202110151956_5FYJ_i.jpg",
-   "restaurantes_id": "6"
+   "restaurantes_id": 6
   },
   {
     "id": 36,
     "nome": "PORTOBELLO PIZZA",
     "preco": "R$ 14,90",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/705df8c7-0085-462d-b3ca-774ae9b70b95/202104281134_8340_.jpeg",
-    "restaurantes_id": "6"
+    "restaurantes_id": 6
   },
   {
     "id": 37,
     "nome": "esfihas",
     "preco":"R$ 10,90",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/f0505b00-c686-479f-8630-43fcf173aadc/202304122045_3HM5_i.jpg",
-    "restaurantes_id": "7"
+    "restaurantes_id": 7
   },
   {
     "id": 38,
     "nome": "PIZZA CALABRESA",
     "preco": "R$ 42,90",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/f0505b00-c686-479f-8630-43fcf173aadc/202305251956_K25P_i.jpg",
-    "restaurantes_id": "7"
+    "restaurantes_id": 7
   },
   {
     "id": 39,
     "nome": "PIZZA MARGARIDA",
     "preco": "R$ 45,90",
-    "restaurantes_id": "7",
+    "restaurantes_id": 7,
     "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/f0505b00-c686-479f-8630-43fcf173aadc/202305251959_OSLI_i.jpg"
   },
   {
@@ -277,48 +277,48 @@
     "nome": "esfihas",
     "preco":"R$ 10,90",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/f0505b00-c686-479f-8630-43fcf173aadc/202304122045_3HM5_i.jpg",
-    "restaurantes_id": "7"
+    "restaurantes_id": 7
   },
   {
     "id": 41,
     "nome": "PIZZA CALABRESA",
     "preco": "R$ 42,90",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/f0505b00-c686-479f-8630-43fcf173aadc/202305251956_K25P_i.jpg",
-    "restaurantes_id": "7"
+    "restaurantes_id": 7
   },
   {
     "id": 42,
     "nome": "PIZZA MARGARIDA",
     "preco": "R$ 45,90",
-    "restaurantes_id": "7",
+    "restaurantes_id": 7,
     "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/f0505b00-c686-479f-8630-43fcf173aadc/202305251959_OSLI_i.jpg"
   },
   {
     "id": 43,
     "nome": "Classico Burgher",
     "preco": "R$ 24,90",
-    "restaurantes_id": "8",
+    "restaurantes_id": 8,
     "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/15fccc0b-280a-4e15-969e-0d3a88e91233/202209281849_10M8_i.jpg"
   },
   {
     "id": 44,
     "nome": "Classico Duplo",
     "preco": "R$ 28,50",
-    "restaurantes_id": "8",
+    "restaurantes_id": 8,
     "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/15fccc0b-280a-4e15-969e-0d3a88e91233/202210031853_BL6K_i.jpg"
   },
   {
     "id": 45,
     "nome": "Classico triplo",
     "preco": "R$ 32,90",
-    "restaurantes_id": "8",
+    "restaurantes_id": 8,
     "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/15fccc0b-280a-4e15-969e-0d3a88e91233/202210031853_BL6K_i.jpg"
   },
   {
     "id": 46,
     "nome": "Classico Burgher",
     "preco": "R$ 24,90",
-    "restaurantes_id": "8",
+    "restaurantes_id": 8,
     "imagem": "https://static.ifood-static.com.br/image/upload/t_medium/pratos/15fccc0b-280a-4e15-969e-0d3a88e91233/202209281849_10M8_i.jpg"
   },
   {
