@@ -3,27 +3,39 @@
     "id": 1,
     "nome": "Kid Abelha - Universitário",
     "endereco": "Avenida Universitária, 675 - Setor Leste Universitário, Goiania - GO",
+    "tipo": "lanches",
+    "descricao": "Desde 1986 no mercado Goianiense, a Sanduicheria Kid Abelha aposta no alto padrão dos seus ingredientes. Em seus diferenciais, a marca aposta no purê de batata, que vai totalmente grátis em qualquer sanduiche do nosso cardápio",
     "nota": 4.9,
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/00d448d2-f09f-405e-b819-6971a035b3fb/202101281546_h7cr_i.jpg"
   },
   {
     "id": 2,
     "nome": "O Paulistinha Sanduíches ",
     "endereco": "Avenida R 9, 78 - Setor Oeste",
+    "tipo": "lanches",
+    "descricao": "Sabores intensos em um novo conceito do famoso “Paulistinha”. burger burguer hamburguer batata frita cervejas heineken churrasquinho churrasco sobremesas doces promoções mc bk taxa gratis espetinho",
     "nota": 4.2,
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/2818b6f3-da01-4665-bb01-97623d1268e3/202303211909_Scov_i.jpg"
   },
   {
     "id": 3,
     "nome": "Garagem Burguer ",
     "endereco": "Rua 10a, 62 - Setor Sul",
+    "tipo": "lanches",
+    "descricao": "O MELHOR HAMBÚRGUER ARTESANAL DA CIDADE:)",
     "nota": 4.5,
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/36d3f604-c7df-4036-bb22-6c959da4dec0/202203242018_4MnG_i.jpg"
   },
   {
     "id": 4,
     "nome": "Sanduicheria Ponto do Sabor",
     "endereco": "Av dos Alpes Esq. Av Luiz de Matos, 1150 - Vila Uniao",
+    "descricao": "Sanduicheria Ponto Do Sabor, aproveite nosso menu de sanduiches, omeletes, porções de batatas!!",
+    "tipo": "lanches",
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
     "nota": 4.7,
     "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/201706271204_f6043378-8e01-49b5-9b67-70b7c3e59056.jpg"
   },
@@ -31,119 +43,348 @@
     "id": 5,
     "nome": "Megga Point",
     "endereco": "Rua P-29, 152 - Setor dos Funcionarios",
+    "descricao": "MEGGA POINT SANDUICHERIA - O MELHOR SANDUÍCHE DA CIDADE!",
+    "tipo": "lanches",
     "nota": 4.1,
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/7edcf8fc-50f7-47c1-8c65-73b6eee56a81/201809252239_20994.jpg"
   },
   {
     "id": 6,
     "nome": "Burger Aqui  ",
     "endereco": "Rua 10 A, 62 - Setor Sul",
+    "descricao": "Hamburguer artesanal🍔",
+    "tipo": "lanches",
     "nota": 3.9,
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/705df8c7-0085-462d-b3ca-774ae9b70b95/202108241905_Zg4Z_.jpeg"
   },
   {
     "id": 7,
     "nome": "Alle Esfihas ",
     "endereco": "Avenida Perimetral Norte, 7559 - Jardim Diamantina",
+    "descricao": "Deliciosa massa e recheios:",
+    "tipo": "lanches",
     "nota": 4.6,
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/f0505b00-c686-479f-8630-43fcf173aadc/202304102251_wHVd_i.jpg"
   },
   {
     "id": 8,
     "nome": "Bueno Burger",
     "endereco": "Praça T25 , 0 - Setor Bueno",
+    "descricao": "O Verdadeiro Sanduiche Goiano! Temos Sanduiches, Batata Frita, Combos, Cremes, Refrigerantes, Sucos, Coca Cola.",
+    "tipo": "lanches",
     "nota": 4.3,
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/15fccc0b-280a-4e15-969e-0d3a88e91233/202006162256_42mF_i.png"
   },
   {
     "id": 9,
     "nome": "Mr Sacada",
     "endereco": "Mr Sacada, 257 - Setor Pedro Ludovico",
+    "descricao": "O melhor hambúrguer de Goiânia",
+    "tipo": "lanches",
     "nota": 4.1,
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/7c94bb81-7696-4563-9333-1a33dfabe1e4/202111222221_QnIb_i.png"
   },
   {
     "id": 10,
     "nome": "Buldogs Alto",
     "endereco": "Av Engenheiro Eurico Viana, 21 - Vila Maria Jose",
+    "descricao": "Diversos tipos de sanduíches, dos tradicionais às combinações personalizadas. Simplesmente saboroso",
+    "tipo": "lanches",
     "nota": 4.6,
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/f26d774d-eb49-4920-b880-2c047f6bd854/202003051314_MjK1_i.jpg"
   },
   {
     "id": 11,
     "nome": "Chapa Quente Burguer",
     "endereco": "Alameda Perimetral, 0 - Vila Fróes",
+    "descricao": "O melhor da região!",
+    "tipo": "lanches",
     "nota": 4.8,
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/201809030720_33f87e14-f605-4a7b-afbf-87a5160bbdd9.png"
   },
   {
     "id": 12,
     "nome": "Fábrica do Hambúrgue ",
     "endereco": "Rua 404, 2 - Setor Negrão de Lima",
+    "descricao": "Restaurante descolado, com hambúrgueres artesanais feitos na brasa!",
+    "tipo": "lanches",
     "nota": 4.9,
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/6a680a1b-da04-4a3e-af0d-16c2153b9a65/202207120832_zZlU_i.jpg"
   },
   {
     "id": 13,
     "nome": "Cleoburgers Cidade",
     "endereco": "Avenida Pedro Ludovico, 0 - Setor Sudoeste",
+    "descricao": "Somos o Cleoburgers Sanduicheria!!! Temos variedade em sanduiches tradicionais, artesanais, porções e bebidas! Experimente nosso Bacon",
+    "tipo": "lanches",
     "nota": 4.3,
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/f52f45b0-4b53-49f8-b0a6-55b44c1c3005/202302271528_zOn1_i.jpg"
   },
   {
     "id": 14,
     "nome": "Burgueria da Praça",
     "endereco": "Pc T 25, 1 - Setor Bueno",
+    "descricao": "Simplesmente o melhor!",
+    "tipo": "lanches",
     "nota": 4.2,
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/079c912f-cb67-48cd-a8e8-fe2cf1be3ee4/201806141806_logo1.jpg"
   },
   {
     "id": 15,
     "nome": "Kid Abelha",
     "endereco": "Avenida T-6, 217 - Setor Bueno",
+    "descricao": "O VERDADEIRO SANDUICHE GOIANO SABOR COM QUALIDADE.",
+    "tipo": "lanches",
     "nota": 4.6,
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/201712111354_3ba4aa77-4e37-422e-8dda-2c2a1d5030f9.png"
   },
   {
     "id": 16,
     "nome": "Turbo Sanduícheria",
     "endereco": "Avenida Pedro Ludovico, 0 - Cidade Jardim",
+    "descricao": "O melhor sanduíche da REGIÃO!",
+    "tipo": "lanches",
     "nota": 4.4,
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/201802150807_0151fd11-42d3-4a86-b33d-354c95caa1a5.png"
   },
   {
     "id": 17,
     "nome": "Dog do Bartô ",
     "endereco": "Rua 61, 446 - Jardim Goiás",
+    "descricao": "hot dog hotdog cachorro-quente cachorro quente na chapa no molho duplo tradicional hambúrguer burguer MCDONALS MADRUGA smash",
+    "tipo": "lanches",
     "nota": 4.3,
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/e2f786b0-4b27-4924-aa15-1642d5a64a7c/202301251645_NKMN_i.jpg"
   },
   {
     "id": 18,
     "nome": "Malbec Burger",
     "endereco": "Rua T-29, 528 - Setor Bueno",
+    "descricao": "Lazer, conforto e alta gastronomia. No delivery o hambúrguer (parte quente) vai em uma embalagem separada do pão e salada para preservar a temperatura do produto ",
+    "tipo": "lanches",
     "nota": 4.7,
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/e108599e-25ca-46a4-b208-62398170827c/202109201958_lGya_i.jpg"
   },
   {
     "id": 19,
     "nome": "Famu Restaurante",
     "endereco": "Rua T 53, 0 - Setor Marista",
+    "descricao": "O Fāmu é o seu novo delivery preferido! Com uma forte influência da cozinha quente japonesa e asiática em geral, viemos com a missão de entregar comida com muito sabor, ",
+    "tipo": "restaurante",
     "nota": 4.8,
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/0dd6fc7f-623f-401d-ab90-58440832831a/202107081006_sHy6_i.png"
   },
   {
     "id": 20,
     "nome": "Fire in Burger ",
     "endereco": "Avenida Anápolis, 3003 - Jardim Maria Helena",
+    "descricao": "Deliciosos lanches e hamburguers. Experimente e se apaixone.",
+    "tipo": "lanches",
     "nota": 4.9,
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/a27e09ce-4cbb-40bc-9891-6723f8598a94/202205241648_fWou_i.jpg"
   },
   {
     "id": 21,
     "nome": "X-tchê",
     "endereco": "Avenida C 264, 0 - Nova Suiça",
+    "descricao": "Bem vindos ao melhor X- Gaúcho de Goiânia!!! 18 anos de tradição!!!",
+    "tipo": "lanches",
     "nota": 4.1,
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
     "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/0a8ee720-dfa8-4047-b300-bd729befadb3/202107191828_Ci5b_i.png"
+  },
+  {
+    "id": 22,
+    "nome": "Kintaru Sushi",
+    "endereco": "Av. T 14, 773 - Setor Bela Vista",
+    "descricao": "Somos o seu delivery de comida japonesa! E a nossa missão é levar até você",
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/a7a73917-c62e-4a41-aa5f-f99ba2a45699/202206072214_83bT_i.jpg",
+    "nota": 4.3,
+    "tipo":  "restaurante"
+  },
+  {
+    "id": 23,
+    "nome": "Izu Japanese",
+    "descricao": "Melhor restaurante de comida Japonesa da cidade de Goiânia!",
+    "endereco": "Rua 9, 966 - Setor Oeste",
+    "horario_funcionamento":"Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/201902251146_c6fbcbad-485d-4514-8908-2e4c7bcf58c8.jpg",
+    "nota": 4.1,
+    "tipo": "restaurante"
+  },
+  {
+    "id": 24,
+    "nome": "Mana Poke",
+    "descricao": "Somos o Mana Poke, a maior rede de culinária havaiana do Brasil.",
+    "endereco": "Avenida T 11, 230 - Setor Bueno",
+    "horario_funcionamento":"Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/3ec3d3a5-49f6-40df-8eee-18fe7ca6c96a/202112081233_F8yz_i.jpg",
+    "nota": 4.7,
+    "tipo": "restaurante"
+  },
+  {
+    "id": 25, 
+    "nome": "Kanpai Blue",
+    "descricao": "O primeiro restaurante japonês de Goiânia agora em sua casa!!",
+    "endereco": "Av Deputado Jamel Cecilio, 3300 - Jardim Goiás",
+    "horario_funcionamento":"Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/201907032047_8fba5e58-f586-4d79-8b94-6890f6a5ebac.jpg",
+    "nota": 4.9,
+    "tipo": "restaurante"
+  },
+  {
+    "id": 26, 
+    "nome": "Ankai Culinária Japonesa",
+    "descricao": "Referencia em culinaria oriental, atendendo Goiania e regiao ha mais de 14 anos, com excelencia e qualidade.",
+    "endereco": "Avenida Itália Com Inglaterra, 0 - Jardim Planalto",
+    "horario_funcionamento":"Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30", 
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/e2b64786-f5cb-4028-b846-c6dac1675d24/202105151948_T1EI_i.jpg",
+    "nota": 3.9,
+    "tipo": "restaurante"
+  },
+  {
+    "id": 27,
+    "nome": "Koni Japa",
+    "descricao": "Saborosos, originais e práticos, os produtos do Koni agradam a todos! A marca, que desde 2006 é a preferida dos viciados em japa.",
+    "endereco": "Alameda Couto Magalhães, 739, Qs28, Galeria S7, Sala 2, Setor Pedro",
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/6599f546-986e-495d-a636-320eef902ca2/202203081158_2Ebj_i.jpg",
+    "nota": 4.5,
+    "tipo": "restaurante"
+  },
+  {
+    "id": 28,
+    "nome": "One Japa", 
+    "descricao": "A comida japonesa é uma das mais saudáveis do mundo e por isso chegamos em Goiânia com objetivo ",
+    "endereco": "Avenida T 13, 630 - Setor Bueno",
+    "horario_funcionamento":"Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/fe84b189-5044-4e5f-9623-b592fa7455e1/202005260259_mMeD_i.png",
+    "nota": 4.7,
+    "tipo": "restaurante"
+  },
+  {
+    "id": 29,
+    "nome": "Park Sushi",
+    "descricao": "Restaurante especializado em comida oriental.",
+    "endereco": "R Cento e Quarenta E Tres, 61 - Setor Marista",
+    "horario_funcionamento":"Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/6e04154b-517f-4af1-b41d-500a427ea2d0/202109011056_rCEP_i.png",
+    "nota": 4.6,
+    "tipo": "restaurante"
+  },
+  {
+    "id": 30,
+    "nome": "Sushi Go",
+    "descricao": "Siga a gente no Instagram: @sushigogyn . .",
+    "endereco": "Rua T-64, 476 - Setor Bela Vista",
+    "horario_funcionamento":"Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/7021731f-de7a-4add-b3a1-6ef718da8c4f/202102191748_SuOi_.jpeg",
+    "nota": 4.7, 
+    "tipo": "restaurante"
+  },
+  {
+    "id": 31,
+    "nome": "+Pet",
+    "descricao": "melhor petShop",
+    "endereco": "Avenida Rio Verde, 1 - Jardim Nova Era",
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/f01952cd-74f1-48f1-8dc9-f366601f7cea/202305121006_krZe_i.jpg",
+    "nota": 4.6,
+    "tipo": "pet Shop"
+  },
+  {
+    "id": 32,
+    "nome": "PetShop serv-kao",
+    "endereco": "Avenida Boulevard Conde dos Arcos, 390 - Goiânia 2", 
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/af2da394-768e-42c2-ad2d-8441c702e2ad/202310312026_V0OA.png",
+    "nota": 4.3,
+    "tipo":"pet Shop"
+  },
+  {
+    "id": 33,
+    "nome": "vila pet",
+    "endereco": "Avenida Bela Vista, 850 - Jardim Bela Vista - Continuação",
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30", 
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/3d4d840e-7d2e-4c96-8625-4ee7a35246ce/202207061514_x7pN_i.jpg",
+    "tipo":"pet Shop",
+    "nota": 4.1
+  },
+  {
+    "id": 34,
+    "nome": "Luna Pet",
+    "endereco": "Avenida Bela Vista, 829 - Jardim Bela Vista",
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/859772b8-d23a-4b37-b6b8-3f8c046c6fbc/202112081534_Ekbu_i.png",
+    "tipo": "pet Shop",
+    "nota": 4.1
+  },
+  {
+    "id": 35,
+    "nome": "pegadanimal",
+    "endereco": "Rua Juazeiro, 170 - Jardim Novo Mundo",
+    "horario_funcionamento":"Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30", 
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/687e1cb3-63ef-4578-9b34-e360f699e4c5/202201281133_8MO8_i.png",
+    "tipo": "pet Shop",
+    "nota": 4.1
+  },
+  {
+    "id": 36,
+    "nome": "PetSpace", 
+    "endereco": "Avenida Olinda, 583 - Jardim Novo Mundo",
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/4d016316-66f5-4b1d-9738-7d15f6dca832/202303021456_b4QR_i.jpg",
+    "tipo": "pet Shop",
+    "nota": 4.6
+  },
+  {
+    "id": 37,
+    "nome": "Petz",
+    "endereco": "Av Goias, 2151 - Set Central",
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/3a3b53fb-ccd5-4808-ae3f-8404ac0f130a/202310042132_ZO1R.png",
+    "tipo":"pet Shop",
+    "nota": 5
+  },
+  {
+    "id": 38,
+    "nome": "Zee Now",
+    "endereco": "Av Goias, 2151 - Set Central",
+    "horario_funcionamento":"Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/5cf68751-ab93-482a-852c-20d0ee2f8fba/202310271931_QZ0G.png",
+    "tipo":"pet Shop"
+  },
+  {
+    "id": 39,
+    "nome": "Pet Planet",
+    "endereco": "Avenida Quarta Radial, 1732 - Setor Pedro Ludovico",
+    "horario_funcionamento":"Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/168265bf-0648-4380-80bf-7cf859b82a51/202212291512_1hnQ_i.jpg",
+    "tipo":"pet Shop"
+  },
+  {
+    "id": 40,
+    "nome": "Pet Care",
+    "endereco": "Avenida E, 55 - Jardim Goiás",
+    "horario_funcionamento": "Segunda a Sexta: 11:00 - 22:00, Sábado: 12:00 - 23:00, Domingo: 12:30 - 21:30",
+    "imagem": "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/973ac060-89d6-46ee-b837-970d15d400c3/202307281643_UL5Z.png",
+    "tipo": "pet Shop"
   }
 ]
